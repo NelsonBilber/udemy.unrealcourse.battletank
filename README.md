@@ -2,6 +2,12 @@
 
 Samples and drafts about code from udemy course The Unreal Engine Developer Course https://www.udemy.com/unrealcourse/learn/v4/
 
+This source code implements a Tank Game, It was possible to learn how to use material a meshes, interaction between C++ and Blueprints, projectile mechanics and some Artificial Intelligence applied to tank movements.
+
+#####Note
+You need to **copy Contents folder (650MB)** to compile source code examples from https://docs.unrealengine.com/latest/INT/Programming/Tutorials/index.html
+
+
 
 ### BattleTank
 
